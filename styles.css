@@ -184,3 +184,15 @@ ud li{
     text-align: center;
     font-style: italic;
 }
+
+.achieve{
+    margin-top: -3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 70%;
+    background-color: #97b9c7;
+    border: 10px solid;
+    border-style: inset;
+    border-color: #3f5175;
+}
