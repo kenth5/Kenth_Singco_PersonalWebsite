@@ -159,7 +159,6 @@ ud li{
 
 .container {
     float: left;
-    clear: none;
     margin-top: 20px;
     margin-left: 20px;
     width: 4%; 
@@ -168,18 +167,15 @@ ud li{
 }
 
 .skills {
-    display: inline;
-    margin: -10;
-    text-align: left; 
-    padding-right: 20px; 
-    line-height: 20px;
+    text-align: center; 
+    padding-right: 18px; 
     color: white;
 }
 
 .html {height: 90%; background-color: #4CAF50;} 
-.css {width: 80%; background-color: #2196F3;} 
-.js {width: 65%; background-color: #f44336;} 
-.php {width: 60%; background-color: #808080;}
+.css {height: 80%; background-color: #2196F3;} 
+.js {height: 65%; background-color: #f44336;} 
+.php {height: 60%; background-color: #808080;}
 
 .bout{
     margin-left:9.5%;
