@@ -141,6 +141,26 @@ ud li{
     font-weight: 500;
 }
 
+#logoMES{
+    float: left;
+    margin-left: 20.8%;
+    margin-top: -7.7%
+}
+
+#logoUSeP{
+    float: left;
+    margin-left: 20%;
+    margin-top: -10%
+}
+
+
+#logoSANHS{
+    float: right;
+    margin-right: 20%;
+    margin-top: -7%;
+}
+
+
 .Skill2{
     margin-left: 4%;
     margin-bottom: 5%;
