@@ -160,9 +160,9 @@ ud li{
 .container {
     float: left;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 40px;
     width: 4%; 
-    height: 60%;
+    height: 80%;
     background-color: #ddd;
 }
 
