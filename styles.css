@@ -181,6 +181,15 @@ ud li{
 
 {box-sizing:border-box}
 
+#quotes{
+    float: left;
+    width: 15%;
+    margin-left: 4%;
+    margin-top: 6%;
+    font-size: 20px;
+    font-style: oblique;
+}
+
 .container {
     text-align: center;
     font-size: 16px;
@@ -190,10 +199,6 @@ ud li{
     width: 4%; 
     height: 80%;
     background-color: #ddd;
-}
-
-#first{
-    margin-left: 21%;
 }
 
 #Sk{
