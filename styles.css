@@ -141,6 +141,10 @@ ud li{
     font-weight: 500;
 }
 
+#logoMES, #logoUSeP, #logoSANHS:hover{
+    cursor: pointer;
+}
+
 #logoMES{
     float: left;
     margin-left: 20.8%;
