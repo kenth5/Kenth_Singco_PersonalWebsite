@@ -162,10 +162,14 @@ ud li{
     font-size: 16px;
     float: left;
     margin-top: 10px;
-    margin-left: 50px;
+    margin-left: 60px;
     width: 4%; 
     height: 80%;
     background-color: #ddd;
+}
+
+#first{
+    margin-left: 22%;
 }
 
 .skills {
@@ -173,17 +177,13 @@ ud li{
     color: white;
 }
 
-.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 60%;} 
-.Java {height: 80%; background-color: lightgray; margin-top: 115%;} 
-.Html {height: 65%; background-color: slategray;  margin-top: 196%;} 
-.Photoshop {height: 60%; background-color: darkgrey;
-margin-top: 224%}
-.Procastination {height: 98%; background-color: dimgray;
-margin-top: 12%}
-.CP {height: 10%; background-color: #a2a2a2;
-margin-top: 503%}
-.ot {height: 70%; background-color: #a2a2a2;
-margin-top: 168%}
+.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 56%;} 
+.Java {height: 60%; background-color: lightgray; margin-top: 220%;} 
+.Html {height: 45%; background-color: slategray;  margin-top: 308%;} 
+.Photoshop {height: 50%; background-color: darkgrey; margin-top: 279%}
+.Procastination {height: 98%; background-color: dimgray; margin-top: 12%} 
+.CP {height: 10%; background-color: #a2a2a2; margin-top: 503%}
+.ot {height: 70%; background-color: #a2a2a2; margin-top: 168%}
 
 .bout{
     margin-left:9.5%;
