@@ -283,7 +283,9 @@ ud li{
 
 .contacts{
     background-color: lightgray;
-    border: 3px solid;
+    border: 5px grey;
+    border-style: double;
     width: 70%;
     height: 30%;
+    margin-left: 14%;
 }
