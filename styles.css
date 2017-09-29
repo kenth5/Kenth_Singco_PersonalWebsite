@@ -140,7 +140,8 @@ ud li{
     margin-top: -17px;
     font-weight: 500;
 }
-.Skills{
+
+.Skill2{
     margin-left: 4%;
     margin-bottom: 5%;
     width: 90%;
@@ -153,6 +154,32 @@ ud li{
     border-bottom-right-radius: 30px 30px;
     box-shadow: 19px 19px 7px rgba(0,0,0,.3);
 }
+
+{box-sizing:border-box}
+
+.container {
+    float: left;
+    clear: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 4%; 
+    height: 60%;
+    background-color: #ddd;
+}
+
+.skills {
+    display: inline;
+    margin: -10;
+    text-align: left; 
+    padding-right: 20px; 
+    line-height: 20px;
+    color: white;
+}
+
+.html {height: 90%; background-color: #4CAF50;} 
+.css {width: 80%; background-color: #2196F3;} 
+.js {width: 65%; background-color: #f44336;} 
+.php {width: 60%; background-color: #808080;}
 
 .bout{
     margin-left:9.5%;
