@@ -158,9 +158,11 @@ ud li{
 {box-sizing:border-box}
 
 .container {
+    text-align: center;
+    font-size: 16px;
     float: left;
-    margin-top: 20px;
-    margin-left: 40px;
+    margin-top: 10px;
+    margin-left: 50px;
     width: 4%; 
     height: 80%;
     background-color: #ddd;
@@ -168,14 +170,20 @@ ud li{
 
 .skills {
     text-align: center; 
-    padding-right: 18px; 
     color: white;
 }
 
-.html {height: 90%; background-color: #4CAF50;} 
-.css {height: 80%; background-color: #2196F3;} 
-.js {height: 65%; background-color: #f44336;} 
-.php {height: 60%; background-color: #808080;}
+.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 60%;} 
+.Java {height: 80%; background-color: lightgray; margin-top: 115%;} 
+.Html {height: 65%; background-color: slategray;  margin-top: 196%;} 
+.Photoshop {height: 60%; background-color: darkgrey;
+margin-top: 224%}
+.Procastination {height: 98%; background-color: dimgray;
+margin-top: 12%}
+.CP {height: 10%; background-color: #a2a2a2;
+margin-top: 503%}
+.ot {height: 70%; background-color: #a2a2a2;
+margin-top: 168%}
 
 .bout{
     margin-left:9.5%;
