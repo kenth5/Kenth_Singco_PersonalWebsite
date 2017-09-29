@@ -141,7 +141,7 @@ ud li{
     font-weight: 500;
 }
 
-#logoMES, #logoUSeP, #logoSANHS:hover{
+#logoMES, #logoUSeP, #logoSANHS, :hover img{
     cursor: pointer;
 }
 
