@@ -259,7 +259,7 @@ ud li{
     margin-left: 5%;
     margin-right: 5%;
     width: 90%;
-    height: 70%;
+    height: 95%;
     background-color: darkgray;
     border: 10px solid;
     border-style: inset;
@@ -322,3 +322,17 @@ ud li{
     font-size: 120%;
     text-decoration: underline;
 }
+
+.mySlides {
+    display:none;
+    margin: auto;
+    margin-top: -4%;
+    margin-bottom: 1.5%;
+}
+
+.w3-col{
+    margin: auto;
+    float: right;
+}
+
+.demo {cursor:pointer}
