@@ -258,8 +258,9 @@ ud li{
     margin-top: -3%;
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 7%;
     width: 90%;
-    height: 95%;
+    height: 100%;
     background-color: darkgray;
     border: 10px solid;
     border-style: inset;
@@ -331,8 +332,17 @@ ud li{
 }
 
 .w3-col{
-    margin: auto;
     float: right;
+    margin: .35%;
 }
 
 .demo {cursor:pointer}
+
+#l2{
+    margin-top: -.7%;
+    margin-right: 43%;
+}
+
+.list{
+    margin-right: .4%
+}
