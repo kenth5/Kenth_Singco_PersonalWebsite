@@ -293,6 +293,16 @@ ud li{
 #gmail{
     float: left;
     margin-left: 30%;
+    margin-top: 5%;
+}
+
+#CN{
+    float: left;
+    font-family: "Arial";
+    margin-top: 12%;
+    margin-left: -3%;
+    font-size: 130%;
+    text-decoration: underline;
 }
 
 <img style="color:red"> class="color:mediumblue">="mySlides" src="color:mediumblue">="images/me.jpg"="color:mediumblue">>
