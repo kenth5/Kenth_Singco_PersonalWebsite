@@ -290,6 +290,11 @@ ud li{
     margin-left: 14%;
 }
 
+#gmail{
+    float: left;
+    margin-left: 30%;
+}
+
 <img style="color:red"> class="color:mediumblue">="mySlides" src="color:mediumblue">="images/me.jpg"="color:mediumblue">>
 <img style="color:red"> class="color:mediumblue">="mySlides" src="color:mediumblue">="img_lights.jpg"="color:mediumblue">>
 <img style="color:red"> class="color:mediumblue">="mySlides" src="color:mediumblue">="img_mountains.jpg"="color:mediumblue">>
