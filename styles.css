@@ -26,6 +26,12 @@ h2{
     border-left: hidden;
 }
 
+#ach{
+    margin-top: -1%;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
 ul{
     width: 83%;
     margin: auto;
@@ -60,12 +66,18 @@ ul li a:hover{
     font-size: 215%;
 }
 
+.ach{
+    font-size: 20px;
+}
+
 ul li ul li{
+    font-size: 20px;
     display: none;
 }
 
 ul li:hover ul li{
     display: block;
+    cursor: pointer;
 }
 
 #me{
@@ -100,7 +112,7 @@ ul li:hover ul li{
     margin-top: 30px;
     float: left;
     width: 47%;
-    height: 210px;
+    height: 20%;
     background: grey;
     text-align: right;
 }
@@ -177,7 +189,7 @@ ud li{
     margin-left: 4%;
     margin-bottom: 5%;
     width: 90%;
-    height: 50%;
+    height: 55%;
     background-color: grey;
     border-color: black;
     border-style: double;
@@ -205,6 +217,7 @@ ud li{
 }
 
 #Sk{
+    margin-top: 10%;
     font-family: Georgia, monospace;
     display: inline-block;
     font-size: 15px
@@ -215,13 +228,13 @@ ud li{
     color: white;
 }
 
-.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 56%;} 
-.Java {height: 65%; background-color: lightgray; margin-top: 197%;} 
-.Html {height: 45%; background-color: slategray;  margin-top: 308%;} 
-.Photoshop {height: 50%; background-color: darkgrey; margin-top: 279%}
-.Procastination {height: 80%; background-color: dimgray; margin-top: 111.5%} 
-.CP {height: 10%; background-color: #a2a2a2; margin-top: 503%}
-.ot {height: 70%; background-color: #a2a2a2; margin-top: 168%}
+.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 60.7%;} 
+.Java {height: 65%; background-color: lightgray; margin-top: 214%;} 
+.Html {height: 45%; background-color: slategray;  margin-top: 338%;} 
+.Photoshop {height: 50%; background-color: darkgrey; margin-top: 307%}
+.Procastination {height: 80%; background-color: dimgray; margin-top: 122.1%} 
+.CP {height: 10%; background-color: #a2a2a2; margin-top: 552.2%}
+.ot {height: 70%; background-color: #a2a2a2; margin-top: 183.5%}
 
 .bout{
     margin-left:9.5%;
