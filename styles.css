@@ -228,13 +228,13 @@ ud li{
     color: white;
 }
 
-.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 60.7%;} 
-.Java {height: 65%; background-color: lightgray; margin-top: 214%;} 
-.Html {height: 45%; background-color: slategray;  margin-top: 338%;} 
-.Photoshop {height: 50%; background-color: darkgrey; margin-top: 307%}
-.Procastination {height: 80%; background-color: dimgray; margin-top: 122.1%} 
-.CP {height: 10%; background-color: #a2a2a2; margin-top: 552.2%}
-.ot {height: 70%; background-color: #a2a2a2; margin-top: 183.5%}
+.sleeping {height: 90%; background-color: #6e5a5a; margin-top: 29px;} 
+.Java {height: 65%; background-color: lightgray; margin-top: 101px;} 
+.Html {height: 45%; background-color: slategray;  margin-top: 159px;} 
+.Photoshop {height: 50%; background-color: darkgrey; margin-top: 144px}
+.Procastination {height: 80%; background-color: dimgray; margin-top: 58px} 
+.CP {height: 10%; background-color: #a2a2a2; margin-top: 259.4px}
+.ot {height: 70%; background-color: #a2a2a2; margin-top: 87px}
 
 .bout{
     margin-left:9.5%;
@@ -378,4 +378,8 @@ margin-left: 41%;
 .list{
     padding-left: 5%;
     padding-right: 12%;
+}
+
+h5{
+    position: absolute;
 }
