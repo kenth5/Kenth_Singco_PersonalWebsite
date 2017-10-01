@@ -323,6 +323,11 @@ ud li{
 margin-left: 41%;    
 }
 
+#icon:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
 #Fbname{
     float: left;
     font-family: "Arial";
