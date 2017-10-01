@@ -312,17 +312,22 @@ ud li{
     margin-left: 14%;
 }
 
-#icons{
+#icon{
     float: left;
-    margin-left: 30%;
-    margin-top: 15%;
+    margin-left: 10px;
+    
+    margin-top: 24%;
+}
+
+.icons{
+margin-left: 41%;    
 }
 
 #Fbname{
     float: left;
     font-family: "Arial";
     margin-top: 3%;
-    margin-left: -13%;
+    margin-left: -30%;
     font-size: 120%;
     text-decoration: underline;
 }
