@@ -60,6 +60,14 @@ ul li a:hover{
     font-size: 215%;
 }
 
+ul li ul li{
+    display: none;
+}
+
+ul li:hover ul li{
+    display: block;
+}
+
 #me{
     margin-bottom: 0px;
     border: 15px solid #000;
